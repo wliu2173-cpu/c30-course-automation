@@ -23,8 +23,8 @@ TOKEN_FILE="$SCRIPT_DIR/iclass_token.txt"
 # ══════════════════════════════════════
 #  【核心用户配置静态区】
 # ══════════════════════════════════════
-USER="zmdyz2403080405"
-PASS="zmdyz%40123456"  
+USER="账号"
+PASS="密码"  
 SCHOOL_ID="62b18d620376d370a0640836"
 SERVICE_VERSION="8.0"
 BASE="https://pxservice.iclass30.com/gatewayApi"
